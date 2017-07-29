@@ -1,0 +1,27 @@
+{
+  "name": "fbonbb",
+  "version": "1.0.0",
+  "description": "Facebook content on Google Material",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpatino2/fbongg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpatino2/fbongg/issues"
+  },
+  "homepage": "https://github.com/dpatino2/fbongg#readme",
+  "dependencies": {
+    "angular": "^1.6.5",
+    "angular-animate": "^1.6.5",
+    "angular-aria": "^1.6.5",
+    "angular-material": "^1.1.4",
+    "angular-route": "^1.6.5",
+    "express": "^4.15.3"
+  }
+}

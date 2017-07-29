@@ -1,0 +1,16 @@
+{
+  "name": "fbonbb",
+  "description": "Facebook content on Google Material",
+  "main": "server.js",
+  "authors": [
+    "dpatino2 <dpatino2@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/dpatino2/fbongg",
+  "private": true,
+  "dependencies": {
+    "angular": "angularjs#^1.6.5",
+    "angular-route": "^1.6.5",
+    "angular-material": "^1.1.4"
+  }
+}
